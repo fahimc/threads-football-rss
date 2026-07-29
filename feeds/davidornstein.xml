@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:nova="https://github.com/fahimc/threads-football-rss/ns">
+  <channel>
+    <title>David Ornstein on Threads</title>
+    <link>https://www.threads.com/@davidornstein</link>
+    <description>Latest public Threads posts by football journalist David Ornstein.</description>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 29 Jul 2026 20:00:00 GMT</lastBuildDate>
+    <ttl>10</ttl>
+    <atom:link href="https://raw.githubusercontent.com/fahimc/threads-football-rss/main/feeds/davidornstein.xml" rel="self" type="application/rss+xml"/>
+    <nova:generatedAt>2026-07-29T20:00:00.000Z</nova:generatedAt>
+    <nova:staleAfterMinutes>10</nova:staleAfterMinutes>
+  </channel>
+</rss>
